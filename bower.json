@@ -1,0 +1,11 @@
+{
+  "name": "cordova-simple-no-sql",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AlexisReverte/cordova-no-sql.git"
+  },
+  "ignore": [
+    "**/.*"
+  ]
+}
