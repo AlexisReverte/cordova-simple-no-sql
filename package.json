@@ -1,0 +1,34 @@
+{
+  "name": "Cordova Simple No SQL",
+  "version": "1.0.0",
+  "description": "Simple No SQL library for cordova with localstorage browser fallback",
+  "homepage": "https://github.com/AlexisReverte/cordova-simple-no-sql",
+  "keywords": [
+    "no sql",
+    "db",
+    "cordova",
+    "connect",
+    "angularjs"
+  ],
+  "author": {
+    "name": "Matsiya",
+    "email": "info@matsiya.com"
+  },
+  "contributors": [],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/AlexisReverte/cordova-simple-no-sql/raw/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexisReverte/cordova-simple-no-sql.git"
+  },
+  "dependencies": {
+  },
+  "main": "index",
+  "engines": {
+    "node": ">= 0.6.0"
+  }
+}
